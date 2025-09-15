@@ -19,8 +19,11 @@ Inteligencia articial
 3.Diseñar algoritmos eficientes para problemas simples.
 
 4.Integrar herramientas de IA (como ChatGPT, Copilot o Gemini) para:
+    
     -Generar ejemplos de pseudocódigo.
+    
     -Detectar errores y optimizar algoritmos.
+    
     -Comparar diferentes soluciones a un mismo problema.
 
 5.Fomentar la creatividad y el autoaprendizaje, utilizando la IA como un asistente y no como sustituto del razonamiento humano.
