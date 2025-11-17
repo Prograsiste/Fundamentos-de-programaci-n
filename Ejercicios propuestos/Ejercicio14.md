@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 15: *Calcular el promedio de 2 calificaciones.* 🦉
+# 🦉 Ejercicio 14: *Calcular el promedio de 2 calificaciones.* 🦉
 
 ---
 
