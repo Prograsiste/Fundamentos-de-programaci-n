@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 29: *Dados 10 números enteros ingresados por teclado, visualizar la suma de los números pares, cuántos números pares existen y la media de los números impares.* 🦉
+# 🦉 Ejercicio 28: *Dados 10 números enteros ingresados por teclado, visualizar la suma de los números pares, cuántos números pares existen y la media de los números impares.* 🦉
 
 ---
 
