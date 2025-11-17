@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 14: *¿Le ganas a la máquina?” (cálculo de dos números).* 🦉
+# 🦉 Ejercicio 13: *¿Le ganas a la máquina?” (cálculo de dos números).* 🦉
 
 ---
 
