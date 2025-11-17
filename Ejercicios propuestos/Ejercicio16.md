@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 17: *Ingresar un número del 0 al 9 e indicar si el número ingresado está bien.* 🦉
+# 🦉 Ejercicio 16: *Ingresar un número del 0 al 9 e indicar si el número ingresado está bien.* 🦉
 
 ---
 
