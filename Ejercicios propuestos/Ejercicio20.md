@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 22: *Emitir la factura de un artículo considerando IVA 12% y descuento del 5% si el precio bruto supera 50,000.* 🦉
+# 🦉 Ejercicio 20: *Emitir la factura de un artículo considerando IVA 12% y descuento del 5% si el precio bruto supera 50,000.* 🦉
 
 ---
 
