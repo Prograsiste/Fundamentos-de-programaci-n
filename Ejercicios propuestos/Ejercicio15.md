@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 16: *Sumar n números utilizando MIENTRAS.* 🦉
+# 🦉 Ejercicio 15: *Sumar n números utilizando MIENTRAS.* 🦉
 
 ---
 
