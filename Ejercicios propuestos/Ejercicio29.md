@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 30: *Calcular la nota media por alumno de una clase de a alumnos.* 🦉
+# 🦉 Ejercicio 29: *Calcular la nota media por alumno de una clase de a alumnos.* 🦉
 
 ---
 
