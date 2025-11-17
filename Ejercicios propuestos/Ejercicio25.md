@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 26: *Visualizar los múltiplos de 4 comprendidos entre 4 y N. Fecha:* 🦉
+# 🦉 Ejercicio 25: *Visualizar los múltiplos de 4 comprendidos entre 4 y N. Fecha:* 🦉
 
 ---
 
