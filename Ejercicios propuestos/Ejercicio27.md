@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 28: *Realizar un contador e imprimir los 100 primeros números enteros.* 🦉
+# 🦉 Ejercicio 27: *Realizar un contador e imprimir los 100 primeros números enteros.* 🦉
 
 ---
 
