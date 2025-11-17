@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 23: *Calcular la suma de los cuadrados de los 100 primeros números naturales.* 🦉
+# 🦉 Ejercicio 22: *Calcular la suma de los cuadrados de los 100 primeros números naturales.* 🦉
 
 ---
 
