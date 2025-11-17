@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 24: *Sumar los números pares del 2 al 100 e imprimir su valor.* 🦉
+# 🦉 Ejercicio 23: *Sumar los números pares del 2 al 100 e imprimir su valor.* 🦉
 
 ---
 
