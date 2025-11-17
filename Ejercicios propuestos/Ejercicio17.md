@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 18: *Leer una serie de números enteros positivos distintos de 0 (el último es -99) y obtener el mayor.* 🦉
+# 🦉 Ejercicio 17: *Leer una serie de números enteros positivos distintos de 0 (el último es -99) y obtener el mayor.* 🦉
 
 ---
 
