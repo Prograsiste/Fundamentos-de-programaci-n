@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 19: *Calcular independientemente la suma de los números pares e impares entre 1 y 200.* 🦉
+# 🦉 Ejercicio 18: *Calcular independientemente la suma de los números pares e impares entre 1 y 200.* 🦉
 
 ---
 
