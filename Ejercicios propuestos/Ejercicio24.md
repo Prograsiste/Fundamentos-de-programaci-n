@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 25: *Calcular la media de 50 números introducidos por teclado. Fecha:* 🦉
+# 🦉 Ejercicio 24: *Calcular la media de 50 números introducidos por teclado. Fecha:* 🦉
 
 ---
 
