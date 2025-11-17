@@ -1,6 +1,6 @@
 ![Logo](https://msc-itorizaba.mx/wp-content/uploads/2019/09/logomsc.png)
 
-# 🦉 Ejercicio 20: *Calcular y visualizar la suma y el producto de los números pares comprendidos entre 20 y 400, ambos inclusive.* 🦉
+# 🦉 Ejercicio 19: *Calcular y visualizar la suma y el producto de los números pares comprendidos entre 20 y 400, ambos inclusive.* 🦉
 
 ---
 
